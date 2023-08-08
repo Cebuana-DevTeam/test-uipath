@@ -1,0 +1,24 @@
+# UiPath project specific
+project.json
+project.json.user
+main.xaml.user
+profiles.json
+output
+.settings
+*.local
+nupkg/
+debug.log
+Logs/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains Rider
+.idea/
+
+# macOS
+.DS_Store
